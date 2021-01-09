@@ -1,2 +1,2 @@
 # hello-world
-My First Repository(tm)
+_My_ _First_ _Repository_&reg;
